@@ -4,7 +4,7 @@
 
 ## 一：uncover-mcp(使AI具有调用FOFA/SHODAN能力)
 
-**项目地址：**  https://github.com/Co5mos/uncover-mcp
+**项目地址：** `https://github.com/Co5mos/uncover-mcp`
 
 ### 1.1 编译说明
 
@@ -41,7 +41,7 @@ go build -o uncover-mcp ./cmd/uncover-mcp
 
 **Cherry Studio中使用**
 
-> Cherry StudioMCP 使用教程详见：https://docs.cherry-ai.com/advanced-basic/mcp
+> Cherry StudioMCP 使用教程详见：`https://docs.cherry-ai.com/advanced-basic/mcp`
 
 ```
 {
@@ -89,3 +89,22 @@ go build -o uncover-mcp ./cmd/uncover-mcp
 ```
 
 ![image-20250331151122685](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/image-20250331151122685.png)
+
+## 二：ENScan_GO-mcp(使AI具有一键信息收集能力)
+
+**项目地址：**  `https://github.com/wgpsec/ENScan_GO`
+
+### 2.1 使用MCP
+
+开启MCP服务器，将监听本地的 `http://localhost:8080`
+
+```
+./enscan --mcp
+```
+
+**以 Cherry Studio 配置为例**
+
+![图像-20250329160425571](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/image-20250329160425571.png)
+
+![图像-20250329160556011](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/image-20250329160556011.png)
+
