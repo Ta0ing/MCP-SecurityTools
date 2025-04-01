@@ -4,10 +4,10 @@
 
 | mcp name                                                     | 简介                                 |
 | ------------------------------------------------------------ | ------------------------------------ |
-| [uncover-MCP](#一：uncover-MCP(使AI具有调用FOFA/SHODAN能力)) | 使AI具有调用FOFA/SHODAN能力。        |
-| [ENScan_GO-MCP](#二：ENScan_GO-MCP(使AI具有一键信息收集能力)) | 使AI具有一键信息收集能力。           |
-| [VirusTotal-MCP](#三：VirusTotal-MCP(使AI具有VirusTotal的安全分析能力)) | 使AI具有VirusTotal的安全分析能力。   |
-| [cloudsword-MCP](#四：cloudsword-MCP(使AI具有云安全能力))   | 使AI具有云安全能力,一句话R穿云环境。 |
+| [uncover-MCP](#一uncover-mcp使ai具有调用fofashodan能力) | 使AI具有调用FOFA/SHODAN能力。        |
+| [ENScan_GO-MCP](#二enscan_go-mcp使ai具有一键信息收集能力) | 使AI具有一键信息收集能力。           |
+| [VirusTotal-MCP](#三virustotal-mcp使ai具有virustotal的安全分析能力) | 使AI具有VirusTotal的安全分析能力。   |
+| [cloudsword-MCP](#四cloudsword-mcp使ai具有云安全能力)   | 使AI具有云安全能力,一句话R穿云环境。 |
 | Nmap-MCP                                                     | 待更新,计划中                        |
 | IDA-MCP                                                      | 待更新,计划中                        |
 
