@@ -325,7 +325,7 @@ pip install mcp-server-zoomeye
 
 ![searchexample](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/example.png)
 
-## 五：AWVS-MCP(使AI具有调用AWVS进行漏洞扫描能力)
+## 六：AWVS-MCP(使AI具有调用AWVS进行漏洞扫描能力)
 
 **项目地址：** ` https://github.com/Ta0ing/MCP-SecurityTools/tree/main/awvs-mcp`
 
@@ -333,7 +333,7 @@ pip install mcp-server-zoomeye
 
 使用命令 `awvs-mcp sse --port 8080` 即可在本地监听8080端口
 
-## 5.1 使用方法
+## 6.1 使用方法
 
 **Cherry Studio中使用**
 
