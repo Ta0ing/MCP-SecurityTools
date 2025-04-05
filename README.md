@@ -9,6 +9,7 @@
 | [VirusTotal-MCP](#三virustotal-mcp使ai具有virustotal的安全分析能力) | 使AI具有VirusTotal的安全分析能力。    |
 | [cloudsword-MCP](#四cloudsword-mcp使ai具有云安全能力)        | 使AI具有云安全能力,一句话R穿云环境。  |
 | [ZoomEye MCP](#五zoomeye-mcp使ai具有查询zoomeye来获取网络资产信息) | 使AI具有查询ZoomEye来获取网络资产信息 |
+|                                                              |                                       |
 | Nmap-MCP                                                     | 待更新,计划中                         |
 | IDA-MCP                                                      | 待更新,计划中                         |
 
@@ -323,3 +324,23 @@ pip install mcp-server-zoomeye
 ![image-20250402212549113](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/image-20250402212549113.png)
 
 ![searchexample](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/example.png)
+
+## 五：AWVS-MCP(使AI具有调用AWVS进行漏洞扫描能力)
+
+**项目地址：** ` https://github.com/Ta0ing/MCP-SecurityTools/tree/main/awvs-mcp`
+
+> 支持SSE以及STDIO方式
+
+使用命令 `awvs-mcp sse --port 8080` 即可在本地监听8080端口
+
+## 5.1 使用方法
+
+**Cherry Studio中使用**
+
+**SSE模式**
+
+以Chrerry stdio为例 填入 `http://localhost:8080/sse` 即可获得到工具信息
+
+![image-20250405233953377](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/image-20250405233953377.png)
+
+![image-20250405234217223](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/image-20250405234217223.png)
