@@ -10,8 +10,9 @@
 | [cloudsword-MCP](#四cloudsword-mcp使ai具有云安全能力)        | 使AI具有云安全能力,一句话R穿云环境。  |
 | [ZoomEye-MCP](#五zoomeye-mcp使ai具有查询zoomeye来获取网络资产信息) | 使AI具有查询ZoomEye来获取网络资产信息 |
 | [AWVS-MCP](#六awvs-mcp使ai具有调用awvs进行漏洞扫描能力)      | 使AI具有调用AWVS进行漏洞扫描能力      |
-| Nmap-MCP                                                     | 待更新,计划中                         |
+| GhidraMCP                                                     | 待更新,计划中                         |
 | IDA-MCP                                                      | 待更新,计划中                         |
+| Nmap-MCP                                                     | 待更新,计划中                         |
 
 ## 零：介绍
 
