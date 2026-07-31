@@ -326,6 +326,9 @@ pip install mcp-server-zoomeye
 
 ![searchexample](https://imges-1255470970.cos.ap-nanjing.myqcloud.com/img/example.png)
 
+## 七：Dark-Moon-MCP(使AI具备自主渗透测试能力)
+
+Dark-Moon 是开源的 AI 自主渗透测试平台，内置 MCP 服务器，让 AI 智能体自主对 Web/API/Active Directory/Kubernetes 执行渗透测试；自托管，具备隐私网关，集成 50 余款安全工具。项目地址：https://github.com/ASCIT31/Dark-Moon
 ## 六：AWVS-MCP(使AI具有调用AWVS进行漏洞扫描能力)
 
 **项目地址：** ` https://github.com/Ta0ing/MCP-SecurityTools/tree/main/awvs-mcp`
